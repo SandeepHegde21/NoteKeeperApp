@@ -16,6 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Packages Used:
+To add packages into  your project,go to pubspec.yaml file and  add the package in the dependency sections and run "flutter pub get"  
   ### 1.sqflite:
       SQLite plugin for Flutter. Supports iOS, Android and MacOS.
             Support transactions and batches
