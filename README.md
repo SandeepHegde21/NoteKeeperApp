@@ -32,4 +32,4 @@ samples, guidance on mobile development, and a full API reference.
         In your Dart code, you can use:
           import 'package:path_provider/path_provider.dart';
    ### intl:
-        Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and            bidirectional text.
+      Provides internationalization and localization facilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text.The most important library is intl. It defines the Intl class, with the default locale and methods for accessing most of the internationalization mechanisms. This library also defines the DateFormat, NumberFormat, and BidiFormatter classes.
